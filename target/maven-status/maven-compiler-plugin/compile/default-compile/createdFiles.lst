@@ -1,0 +1,4 @@
+com\revolut\server\AccountHandler.class
+com\revolut\server\TransferRequest.class
+com\revolut\server\Account.class
+com\revolut\server\ApplicationMain.class
