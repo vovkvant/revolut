@@ -22,7 +22,7 @@ public class ApplicationMain {
     }
 
     public void stop(){
-        server.stop(500);
+        server.stop(0);
     }
 
     public static void main(String[] args) {

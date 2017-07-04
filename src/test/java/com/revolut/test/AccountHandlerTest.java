@@ -26,7 +26,6 @@ public class AccountHandlerTest {
     @AfterClass
     public static void afterClass() throws Exception {
         app.stop();
-        System.exit(0);
     }
 
     @Test
